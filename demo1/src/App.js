@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        Welcome to React Application
+        Welcome to Reactnative application
         </a>
       </header>
     </div>
